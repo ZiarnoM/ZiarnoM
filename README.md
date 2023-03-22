@@ -25,7 +25,7 @@ All languages / technologies I'm using:
 - Javascript
 - Python
 - Django
-- Linux (Ubuntu dekstop and basics of Ubuntu server)
+- Linux (Arch,Ubuntu dekstop and basics of Ubuntu server)
 - Git + Github + basics of gitflow
 - Web Security basics
 - Apache2
