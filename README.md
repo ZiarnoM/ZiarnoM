@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ### Hi there, My name is Michał Żarnowski. 
 
@@ -37,3 +37,4 @@ All languages / technologies I'm using:
 
 ## Contact
 Via zar.michal@wp.pl
+-->
